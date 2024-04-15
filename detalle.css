@@ -1,0 +1,42 @@
+body{
+    background-color: grey;
+}
+h1{
+    font-size: 46px;
+    font-weight: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+h3{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+fieldset{
+    border-radius: 25px;
+    background-color: darkgray;
+}
+footer{
+    padding: 50px;
+}
+footer section{
+    float: right;
+}
+footer a{
+    font-size: 30px;
+}
+a:link{
+    color: black;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: blue;
+}
